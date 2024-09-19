@@ -584,7 +584,7 @@ header {
 
 @media (max-width:700px) {
     .fourth-contain div img {
-        content: url('images/mive.jpg');
+        content: url('images/mive.webp');
         max-width: 100%;
         width: 500px;
         height: auto;
