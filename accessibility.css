@@ -159,6 +159,8 @@ header {
 }
 .Terms h1{
     color: #008F58;
+    overflow: hidden;
+
 }
 
 
