@@ -159,6 +159,7 @@ header {
 }
 .Terms h1{
     color: #008F58;
+    overflow:hidden;
 }
 
 
@@ -339,8 +340,15 @@ header {
 .Terms {
     margin-left: 20.833vw;
     margin-right: 20.833vw;
-    margin-top: 10.417vw;
+    margin-top: 10.917vh;
     margin-bottom: 10.417vw;
+}
+@media (max-width:912px) {
+    .Terms {
+        margin-left: 5.833vw;
+        margin-right: 5.833vw;
+        margin-top: 11.917vh;
+    }
 }
 
 
